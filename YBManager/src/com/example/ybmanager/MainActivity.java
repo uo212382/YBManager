@@ -24,5 +24,11 @@ public class MainActivity extends Activity {
 	{
 		
 	}
+	
+	@Override
+	public void onStop()
+	{
+		
+	}
 
 }
